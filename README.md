@@ -1,6 +1,5 @@
 # hello-world
 
-Hi Humans
+Hi visitors,
 
-Hubot here, I like Node.js and Coffeescrupt (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+I am begginer of programming, but this is the greatest first step for becoming top programmer.
