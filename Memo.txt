@@ -1,3 +1,5 @@
 #Memo
 
 Yeoman - https://medium.com/humming-top/yeoman-%EC%9C%BC%EB%A1%9C-angular-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-dd337b37ef59
+
+https://opentutorials.org/module/2398/16117
