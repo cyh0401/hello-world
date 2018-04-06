@@ -9,3 +9,5 @@ https://www.jhipster.tech/ - Jhipster, Scaffolding
 https://inyl.github.io/page/4/ - Jhipster, Example for making scaffolding spring boot and angular modern web
 
 https://www.youtube.com/watch?v=5GMzVQIovOc - Jhipster learning
+
+https://tutorial.djangogirls.org/ko/ django tutorial(kr)
