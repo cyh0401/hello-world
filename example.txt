@@ -39,3 +39,56 @@ spring.data.jpa.repositories.enabled=true
 spring.jpa.generate-ddl=false
 spring.jpa.hibernate.ddl-auto=none
 spring.jpa.show-sql=true
+
+
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.data</groupId>
+        <artifactId>spring-data-jpa</artifactId>
+        <version>2.0.6.RELEASE</version>
+    </dependency>
+</dependencies><repositories>
+    <repository>
+        <id>spring-libs-release</id>
+        <name>Spring Releases</name>
+        <url>https://repo.spring.io/libs-release</url>
+        <snapshots>
+            <enabled>false</enabled>
+        </snapshots>
+    </repository>
+</repositories>
+<참조: http://projects.spring.io/spring-data-jpa/>
+
+spring.datasource.url=jdbc:mysql://localhost:3307/db_name
+spring.datasource.username=admin
+spring.datasource.password=********
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+<application.properties>
+
+
+
+create table SAMPLE_TABLE (
+  id int not null autoincrement,
+  sample_name varchar(100) not null,
+  code varchar(20) not null,
+  create_datetime datetime not null,
+  primary key(id)
+);
+
+@Entity
+@Data
+public class SampleTable {
+    @Id
+    @GeneratedValue(strategy=GenerationType.AUTO)
+    private long id;
+ 
+    private String sampleName;
+    private String code;
+}
+
+
+public interface YourSampleTableRepository extends CrudRepository<SampleTable, Long> {
+    Layout findOne(Long id);
+}
+
+http://www.chidoo.me/index.php/2016/05/08/spring-data-jpa-for-short-memories/
