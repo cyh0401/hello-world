@@ -1,0 +1,11 @@
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Modifying;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.transaction.annotation.Transactional;
+
+public interface DomainRepository extends JpaRepository<Domain, String>{
+	@Modifying
+	@Transactional
+	@Query("delete from TABLE m where to_char(createTime,'yyyymmdd' ) = ?1")
+	void deleteTargetDate(String targetDate);
+}
