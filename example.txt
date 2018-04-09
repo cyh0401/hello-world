@@ -9,3 +9,33 @@ public interface DomainRepository extends JpaRepository<Domain, String>{
 	@Query("delete from TABLE m where to_char(createTime,'yyyymmdd' ) = ?1")
 	void deleteTargetDate(String targetDate);
 }
+
+
+
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity(name="Table name")
+public class domain {
+	@Id
+	@Column(name = "OID", columnDefinition = "CHAR(100)")
+	private String oid;
+	....
+	
+	
+# MONGODB (MongoProperties)
+spring.data.mongodb.database=데이터베이스
+spring.data.mongodb.host=주소
+spring.data.mongodb.port=포트
+# Oracle settings
+spring.datasource.url=jdbc:oracle:thin:@//주소:포트/이름 
+spring.datasource.username=유저이름
+spring.datasource.password=패스워드
+#spring.datasource.driver-class-name=oracle.jdbc.driver.OracleDriver
+# JPA (JpaBaseConfiguration, HibernateJpaAutoConfiguration)
+spring.data.jpa.repositories.enabled=true
+spring.jpa.generate-ddl=false
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.show-sql=true
