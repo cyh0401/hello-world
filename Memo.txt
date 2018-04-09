@@ -11,3 +11,5 @@ https://inyl.github.io/page/4/ - Jhipster, Example for making scaffolding spring
 https://www.youtube.com/watch?v=5GMzVQIovOc - Jhipster learning
 
 https://tutorial.djangogirls.org/ko/ django tutorial(kr)
+
+http://all-record.tistory.com/163 - STS & Github
