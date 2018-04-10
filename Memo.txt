@@ -17,3 +17,7 @@ http://all-record.tistory.com/163 - STS & Github
 https://gs.saro.me/#!m=elec&jn=673 STS tutorial
 
 http://millky.com/@origoni/post/1100 STS Blog example
+
+https://brunch.co.kr/@brunchqvxt/15%20  Spring boot Rest Service1
+
+http://penpen.tistory.com/entry/Spring-Data-JPA-REST Spring boot Rest Service2
