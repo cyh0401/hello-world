@@ -21,3 +21,5 @@ http://millky.com/@origoni/post/1100 STS Blog example
 https://brunch.co.kr/@brunchqvxt/15%20  Spring boot Rest Service1
 
 http://penpen.tistory.com/entry/Spring-Data-JPA-REST Spring boot Rest Service2
+
+http://jdm.kr/blog/121 JPA
