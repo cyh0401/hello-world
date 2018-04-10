@@ -15,3 +15,5 @@ https://tutorial.djangogirls.org/ko/ django tutorial(kr)
 http://all-record.tistory.com/163 - STS & Github
 
 https://gs.saro.me/#!m=elec&jn=673 STS tutorial
+
+http://millky.com/@origoni/post/1100 STS Blog example
