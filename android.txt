@@ -3,3 +3,6 @@ https://m.blog.naver.com/PostView.nhn?blogId=sangrime&logNo=220711570190&proxyRe
   
 http://gogorchg.tistory.com/entry/Android-DataBinding-findViewById-%EC%9D%B4%EC%A0%9C-%EC%95%88%EB%85%95
   - [Android] DataBinding - findViewById 이제 안녕~
+
+http://cholol.tistory.com/397
+  - [Android Studio] 안드로이드에서 로그인 기능 구현하기
