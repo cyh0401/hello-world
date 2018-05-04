@@ -1,2 +1,5 @@
 https://m.blog.naver.com/PostView.nhn?blogId=sangrime&logNo=220711570190&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
   - [안드로이드] TextInputLayout를 이용한 텍스트 입력창 만들기
+  
+http://gogorchg.tistory.com/entry/Android-DataBinding-findViewById-%EC%9D%B4%EC%A0%9C-%EC%95%88%EB%85%95
+  - [Android] DataBinding - findViewById 이제 안녕~
