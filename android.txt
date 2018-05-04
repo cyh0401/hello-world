@@ -6,3 +6,6 @@ http://gogorchg.tistory.com/entry/Android-DataBinding-findViewById-%EC%9D%B4%EC%
 
 http://cholol.tistory.com/397
   - [Android Studio] 안드로이드에서 로그인 기능 구현하기
+
+http://coding-factory.tistory.com/32
+  - [Android] 안드로이드와 오라클 스프링으로 연동/통신하기
