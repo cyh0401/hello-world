@@ -9,6 +9,9 @@ http://cholol.tistory.com/397
 
 http://coding-factory.tistory.com/32
   - [Android] 안드로이드와 오라클 스프링으로 연동/통신하기
+  
+http://kerneler.tistory.com/10
+  - [안드로이드 코딩/Button]투명 버튼 클릭효과 넣기
 
 http://jojoldu.tistory.com/251?category=635883
   - 스프링부트로 웹 서비스 출시하기
