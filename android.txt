@@ -13,5 +13,8 @@ http://coding-factory.tistory.com/32
 http://kerneler.tistory.com/10
   - [안드로이드 코딩/Button]투명 버튼 클릭효과 넣기
 
+http://developer88.tistory.com/
+  - 안드로이드
+
 http://jojoldu.tistory.com/251?category=635883
   - 스프링부트로 웹 서비스 출시하기
