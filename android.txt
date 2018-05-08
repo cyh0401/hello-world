@@ -28,5 +28,8 @@ http://devstory.ibksplatform.com/2017/11/android.html
 http://hyuncb.tistory.com/3?category=627854
   - 안드로이드 아키텍쳐
   
+https://medium.com/@futureofdev/android-architecture-components%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-1-5a142eeb332f
+  - 안드로이드 표준 아키텍쳐에 대한 글
+  
 http://jojoldu.tistory.com/251?category=635883
   - 스프링부트로 웹 서비스 출시하기
