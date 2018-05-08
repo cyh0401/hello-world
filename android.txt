@@ -22,6 +22,7 @@ https://developer.android.com/studio/intro/keyboard-shortcuts
 https://jungwoon.github.io
 
 http://coder-json.tistory.com/4
+http://devstory.ibksplatform.com/2017/11/android.html
   - 안드로이드 뒤로가기 2번으로 종료하기
   
 http://jojoldu.tistory.com/251?category=635883
