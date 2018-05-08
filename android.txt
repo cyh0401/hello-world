@@ -16,5 +16,8 @@ http://kerneler.tistory.com/10
 http://developer88.tistory.com/
   - 안드로이드
 
+https://developer.android.com/studio/intro/keyboard-shortcuts
+  - 안드로이드 스디오 단축키
+
 http://jojoldu.tistory.com/251?category=635883
   - 스프링부트로 웹 서비스 출시하기
